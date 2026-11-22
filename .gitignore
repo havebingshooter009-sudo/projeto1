@@ -1,1 +1,9 @@
 venv/
+
+# Ignorar configurações locais do VS Code
+.vscode/
+*.code-workspace
+
+# Ignorar lixos do Sistema Operacional
+.DS_Store
+Thumbs.db
